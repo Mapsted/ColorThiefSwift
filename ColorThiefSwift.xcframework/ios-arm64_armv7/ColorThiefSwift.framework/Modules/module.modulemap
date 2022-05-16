@@ -1,0 +1,11 @@
+framework module ColorThiefSwift {
+  umbrella header "ColorThiefSwift.h"
+
+  export *
+  module * { export * }
+}
+
+module ColorThiefSwift.Swift {
+    header "ColorThiefSwift-Swift.h"
+    requires objc
+}
