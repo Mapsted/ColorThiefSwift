@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/ColorThiefSwift-Swift.h</key>
 		<data>
-		5SZhIVV+oj3pZbjWG6eTZKjDBHQ=
+		hM9tONPQ2WgCJHupszxoRPnNEFw=
 		</data>
 		<key>Headers/ColorThiefSwift.h</key>
 		<data>
@@ -14,55 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		h5zUE/oTSZ+gDm+TMRQpMfIoyiQ=
+		Zu7Sdq8TXfJakCQklTBIQlpCyFk=
 		</data>
 		<key>Modules/ColorThiefSwift.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		YrcEma5GIUyMw2E/PmZKfWm8nX4=
+		KweCBsWg6M4oPQ/vAjbsVvbpb4U=
 		</data>
 		<key>Modules/ColorThiefSwift.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		BpIheqhakVj6ZZZLh1jAdZX4LZo=
-		</data>
-		<key>Modules/ColorThiefSwift.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		YrcEma5GIUyMw2E/PmZKfWm8nX4=
-		</data>
-		<key>Modules/ColorThiefSwift.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		BpIheqhakVj6ZZZLh1jAdZX4LZo=
+		tVy8zflVftOG65O3tYUvTtQyesQ=
 		</data>
 		<key>Modules/ColorThiefSwift.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
-		w+W3g/OpD9gikkIfrot21czhh/4=
+		muhBkfsHR+c+jBPtIWIbgQnFysY=
 		</data>
 		<key>Modules/ColorThiefSwift.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		QA4318qdxfnvz4rqg3ahYnGoxMc=
-		</data>
-		<key>Modules/ColorThiefSwift.swiftmodule/i386.swiftdoc</key>
-		<data>
-		w+W3g/OpD9gikkIfrot21czhh/4=
-		</data>
-		<key>Modules/ColorThiefSwift.swiftmodule/i386.swiftmodule</key>
-		<data>
-		QA4318qdxfnvz4rqg3ahYnGoxMc=
+		5e6kLLFm/iJglVfbkNYr7J2C+DA=
 		</data>
 		<key>Modules/ColorThiefSwift.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		l2J2b6mpfn4AT59ZNvecbL6anUE=
+		pqhBe9hAZh6BljLW3TJxsoHNJ9Y=
 		</data>
 		<key>Modules/ColorThiefSwift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		btRdFbOIWatmDWknvaSdDUUqXwc=
-		</data>
-		<key>Modules/ColorThiefSwift.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		l2J2b6mpfn4AT59ZNvecbL6anUE=
-		</data>
-		<key>Modules/ColorThiefSwift.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		btRdFbOIWatmDWknvaSdDUUqXwc=
+		nlmgsI6UMflsjfROYpTbxfQnyDQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -75,11 +51,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5SZhIVV+oj3pZbjWG6eTZKjDBHQ=
+			hM9tONPQ2WgCJHupszxoRPnNEFw=
 			</data>
 			<key>hash2</key>
 			<data>
-			IDTq7Bh/yoPrJctFuTNi03/BHx6II61uvhBM04EqLiE=
+			x1QE+vBI+vRz/kXHO5ALakDOR0N0UVliNs7kVDjkvME=
 			</data>
 		</dict>
 		<key>Headers/ColorThiefSwift.h</key>
@@ -97,132 +73,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YrcEma5GIUyMw2E/PmZKfWm8nX4=
+			KweCBsWg6M4oPQ/vAjbsVvbpb4U=
 			</data>
 			<key>hash2</key>
 			<data>
-			4GyvjHhTaXOac8ffkPpRAi//UGGyn2t6lnlrnuV8lMI=
+			iz0IOs7nkRAtllh5XzJ6ASJfvxJrTmJQVm4R1XhB01I=
 			</data>
 		</dict>
 		<key>Modules/ColorThiefSwift.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BpIheqhakVj6ZZZLh1jAdZX4LZo=
+			tVy8zflVftOG65O3tYUvTtQyesQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			A4z1Xr0gV7v0QbvQ63Tmur8Vhy8qijQNnEtihbTphlg=
-			</data>
-		</dict>
-		<key>Modules/ColorThiefSwift.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YrcEma5GIUyMw2E/PmZKfWm8nX4=
-			</data>
-			<key>hash2</key>
-			<data>
-			4GyvjHhTaXOac8ffkPpRAi//UGGyn2t6lnlrnuV8lMI=
-			</data>
-		</dict>
-		<key>Modules/ColorThiefSwift.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BpIheqhakVj6ZZZLh1jAdZX4LZo=
-			</data>
-			<key>hash2</key>
-			<data>
-			A4z1Xr0gV7v0QbvQ63Tmur8Vhy8qijQNnEtihbTphlg=
+			g9wc+1toYVGKGPvL5N7WCKuxVfBbZQk21CbKXX7Xscc=
 			</data>
 		</dict>
 		<key>Modules/ColorThiefSwift.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			w+W3g/OpD9gikkIfrot21czhh/4=
+			muhBkfsHR+c+jBPtIWIbgQnFysY=
 			</data>
 			<key>hash2</key>
 			<data>
-			mS8q8WgD3rGlYSiPFI+22/8DgOJLsAxIXKD3WJGnVos=
+			gMCPywTGfF8QQ0Y7D8cDWHGpzKS+UJJErAkVgJ7b/Gc=
 			</data>
 		</dict>
 		<key>Modules/ColorThiefSwift.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QA4318qdxfnvz4rqg3ahYnGoxMc=
+			5e6kLLFm/iJglVfbkNYr7J2C+DA=
 			</data>
 			<key>hash2</key>
 			<data>
-			qvJTk0CKvIfdbWUsUnNwN7gm+PoSNWMZ9w3xbgB8w6E=
-			</data>
-		</dict>
-		<key>Modules/ColorThiefSwift.swiftmodule/i386.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			w+W3g/OpD9gikkIfrot21czhh/4=
-			</data>
-			<key>hash2</key>
-			<data>
-			mS8q8WgD3rGlYSiPFI+22/8DgOJLsAxIXKD3WJGnVos=
-			</data>
-		</dict>
-		<key>Modules/ColorThiefSwift.swiftmodule/i386.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			QA4318qdxfnvz4rqg3ahYnGoxMc=
-			</data>
-			<key>hash2</key>
-			<data>
-			qvJTk0CKvIfdbWUsUnNwN7gm+PoSNWMZ9w3xbgB8w6E=
+			uQHDSqKQTzshV2zlc8tAkOpSP/VH8yT2q3UsvI4mMQY=
 			</data>
 		</dict>
 		<key>Modules/ColorThiefSwift.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			l2J2b6mpfn4AT59ZNvecbL6anUE=
+			pqhBe9hAZh6BljLW3TJxsoHNJ9Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			e99vFdMRj0YdryTE4A7TFJgk219QzXCE5gFbqWdlSOY=
+			HPe46sXWKiVInB3nRuMaTeRo25DcPOMyCRoPQXKM2wE=
 			</data>
 		</dict>
 		<key>Modules/ColorThiefSwift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			btRdFbOIWatmDWknvaSdDUUqXwc=
+			nlmgsI6UMflsjfROYpTbxfQnyDQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			u7FfOKeTd52QTVrDyMzqpfOWNtQcdMejN/9NO4iS97w=
-			</data>
-		</dict>
-		<key>Modules/ColorThiefSwift.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			l2J2b6mpfn4AT59ZNvecbL6anUE=
-			</data>
-			<key>hash2</key>
-			<data>
-			e99vFdMRj0YdryTE4A7TFJgk219QzXCE5gFbqWdlSOY=
-			</data>
-		</dict>
-		<key>Modules/ColorThiefSwift.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			btRdFbOIWatmDWknvaSdDUUqXwc=
-			</data>
-			<key>hash2</key>
-			<data>
-			u7FfOKeTd52QTVrDyMzqpfOWNtQcdMejN/9NO4iS97w=
+			CwQkKU4l0V4/jDrpqgamq2HxGGkHsnrgvt36xMAWsNI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
